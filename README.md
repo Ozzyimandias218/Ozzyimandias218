@@ -1,9 +1,9 @@
 # Hi there, I'm [Sandro] 👋
 
-### 🚀 Senior Cybersecurity Product Manager & Full-Stack AI Engineer | BTU Georgia
+### 🚀Digital marketing student & Vibecoder | BTU Georgia
 **Bridging High-Converting Marketing Systems, Accessible UI/UX Design, and Rapid AI-Driven Security Applications.**
 
-I specialize in transforming complex digital security challenges into high-impact, user-friendly web applications. Studying at **Business and Technology University (BTU)**, I combine cybersecurity product strategy, prompt engineering, and modern vibe-coding workflows to design, build, and deploy full-stack digital solutions at unprecedented speed.
+I specialize in transforming ideas into prompts , user-friendly web applications. Studying at **Business and Technology University (BTU)**, I combine ai product strategy, prompt engineering, and modern vibe-coding workflows to design, build, and deploy full-stack digital solutions at unprecedented speed.
 
 ---
 
